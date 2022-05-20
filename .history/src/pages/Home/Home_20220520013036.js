@@ -1,7 +1,6 @@
 import React from 'react';
 import Banner from './Banner';
 import Contact from './Contact';
-import Footer from './Footer';
 import Info from './Info';
 import Makeappointment from './Makeappointment';
 import Ownpart from './Ownpart';
@@ -20,7 +19,6 @@ const Home = () => {
             <Makeappointment></Makeappointment>
             <Testimonials></Testimonials>
             <Contact></Contact>
-            <Footer></Footer>
         </div>
     );
 };
